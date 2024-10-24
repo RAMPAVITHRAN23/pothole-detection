@@ -1,0 +1,9 @@
+pip install ultralytics
+pip install cvzone
+pip install pyserial
+
+
+Download ch341 driver from github and install install
+
+
+python final.py for running
